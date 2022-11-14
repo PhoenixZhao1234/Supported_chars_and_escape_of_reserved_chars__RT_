@@ -1,0 +1,31 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: 'Variable1:TestColon'
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable1&TestAmp
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable1_TestSlash
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: 'Variable1}TestParen'
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable1@TestAt
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: 'Variable1[TestBracket'
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable1..TestPeriod
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
